@@ -1,6 +1,5 @@
 <?php
 
+//this is the version 1.1
 
-echo $pageContents="this is the checking code";
-//echo $pageContents="this is the checking code";
 ?>
